@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+header {
+  border: 1px solid gray;
+  background-color:#20B2AA;
+  margin-bottom: 0.5rem;
+  padding-top: 0.1rem; padding-bottom: 3.2rem;
+}
+h1,h2 {
+  line-height: 50px;
+
+}
+h1{
+  font-size: 3rem;
+}
+header a {
+  text-decoration: none; color : black;
+}
+a:hover {
+  color: yellow;
+}
+
+.head{
+  padding-left: 3rem;
+  margin-bottom: 0;
+  font-family: 'Playfair Display', serif;
+}
+h3 {
+  margin: 0;
+  display: inline;
+}
+ #mainmenu a {
+ display: block;
+ line-height: 20px;
+
+ }
+
+ ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+   display: inline;
+   float: right;
+ }
+ li {
+  float:left;
+ }
+ li a {
+   display: block;
+   text-align: center;
+   padding : 14px 30px;
+   font-family: 'Londrina Solid', cursive;
+   font-size: 25px;
+ }
+.wrapper {width:1150px;}
